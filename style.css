@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#gameArea {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background-color: #e9ecef;
+}
+
+.snake {
+    background-color: green;
+    position: absolute;
+}
+
+.food {
+    background-color: red;
+    position: absolute;
+}
